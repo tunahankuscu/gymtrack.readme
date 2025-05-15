@@ -1,4 +1,4 @@
 # uygulama
 Uygulamanın amacını ve hedef kitlesini belirle.
-Kullanılacak teknolojileri seç (Python, Django, React, Flutter, vb.).
-Ana özellikleri listele (örneğin, adım sayar, kalori hesaplama, antrenman programları, vb.).
+Kullanılacak teknolojileri seç (html, css, java script,vb.).
+Ana özellikleri listele ( fitness hreketleri, antrenman programları, vb.).
